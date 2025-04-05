@@ -1,0 +1,33 @@
+body{background-color:#000;
+font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+h1{width: 500px;
+    text-align: center;
+    margin:0 auto;
+    color: #CA6702;
+    padding: 0em;}
+    h1{
+        font-family: "Boldonse", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+    h2{color: #0A9396;
+    width:500px;
+margin: 0.5em auto;
+text-align: center;}
+h2{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+img{ display: block;
+    margin: 0 auto;}
+p,ol,li,a{width: 500px; margin: 0 auto;color: #0A9396;}
+a { color: #E9D8A6;
+    text-decoration: none}
+a:hover{color: #CA6702;}
+p.credits{font-size: 0.5em;}
+p.Start{font-style: italic;}
